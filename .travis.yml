@@ -6,7 +6,7 @@ script:
 notifications:
   irc:
     channels:
-      - "chat.freenode.net#cloudrouter"
+      - "chat.freenode.net#cloudrouter-devel"
     on_success: always
     on_failure: always
     skip_join: true
