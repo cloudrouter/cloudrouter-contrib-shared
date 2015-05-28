@@ -10,7 +10,7 @@ In order to contribute code to any CloudRouter Project repo, please maintain a p
 
 The [CloudRouter Developer’s Certificate of Origin](https://cloudrouter.org/developer-certificate/) requires that all commits be signed off. Commits can be [signed off](http://git-scm.com/docs/git-commit) by adding the "--signoff" or "-s" flag to your git commit command. A Travis CI test checks that commits are signed off, and all pull requests containing any commits missing sign off will be rejected.
 
-Git hooks that automatically sign-off all commits, or reject commits that are not signed-off are [available here](https://github.com/cloudrouter/cloudrouter/tree/master/contrib/hooks).
+Git hooks that automatically sign-off all commits, or reject commits that are not signed-off are [available here](https://github.com/cloudrouter/cloudrouter-contrib-shared/tree/master/hooks).
 
 ## Merging pull requests
 
